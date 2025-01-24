@@ -9,8 +9,8 @@
 - 😄 Pronouns: Be at home (No offensive words is OK)
 - ⚡ Fun fact:
   1. I love rhythm games like:
-     ❤`project sekai colorful stage: feat. Hatsune miku ( pjsk )`
-     ❤`Arcaea ( current ptt: 11.85 )`
+     <br>❤`project sekai colorful stage: feat. Hatsune miku ( pjsk )`
+     <br>❤`Arcaea ( current ptt: 11.85 )`
   3. I love proggramming!
 - 🤔 I’m looking for help with:
   1. `PS Pr Ae Au`, `UE4/UE5`, `Blender`, `VS Code ( for C environment )`
