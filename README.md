@@ -1,4 +1,13 @@
 ## Hi there 👋
+##Welcome to my world!
+
+For the lazy INFP/INTP young man here:
+- 🌱 I’m currently learning:
+    · Programming: C, Java.
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: ... Guess what? I've already upload my e-mail.
+- 😄 Pronouns: ... Be at home (No offensive words is OK)
+- ⚡ Fun fact: ...
 
 <!--
 **TwilightLoveU/TwilightLoveU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
