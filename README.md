@@ -1,7 +1,7 @@
 ## Hi there 👋
-##Welcome to my world!
+### Welcome to my world!
 
-###For the lazy INFP/INTP young man here:
+### For the lazy INFP/INTP young man here:
 - 🌱 I’m currently learning:
 - Programming: C, Java.
 - 👯 I’m looking to collaborate on ...
