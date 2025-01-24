@@ -13,10 +13,10 @@
      <br>❤`Arcaea ( current ptt: 11.85 )`
   3. I love proggramming!
 - 🤔 I’m looking for help with:
-  <br>Development: `VS Code ( for C environment )`
-  <br>Adobe creating: `PS Pr Ae Au`
-  <br>modeling: `Blender`
-  <br>`UE4/UE5`
+  - <br>Development: `VS Code ( for C environment )`
+  - <br>Adobe creating: `PS Pr Ae Au`
+  - <br>modeling: `Blender`
+  - <br>`UE4/UE5`
 
   
   Some tools/IDE are not so eazy for a fresh to use... in any fields
