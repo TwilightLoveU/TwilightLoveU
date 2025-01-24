@@ -2,6 +2,7 @@
 ### Welcome to my world!
 
 #### For the lazy INFP/INTP young man here:
+A normal CST student in UIC, China (Beijing Normal University-Hong Kong Baptist University United International College)
 - 🌱 I’m currently learning:
   1. Programming: `C`, `Java`
   2. Music: Composing ( `J-Pop`, `Vocaloid`, ... )
