@@ -13,13 +13,11 @@
      <br>❤`Arcaea ( current ptt: 11.85 )`
   3. I love proggramming!
 - 🤔 I’m looking for help with:
-  - <br>Development: `VS Code ( for C environment )`
-  - <br>Adobe creating: `PS Pr Ae Au`
-  - <br>modeling: `Blender`
-  - <br>`UE4/UE5`
+  - Development: `VS Code ( for C environment )` `UE4/UE5`
+  - Adobe creating: `PS Pr Ae Au`
+  - modeling: `Blender`
 
-  
-  Some tools/IDE are not so eazy for a fresh to use... in any fields
+  <b><br>Some tools/IDE are not so eazy for a fresh to use... in any fields
 <!--
 **TwilightLoveU/TwilightLoveU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
