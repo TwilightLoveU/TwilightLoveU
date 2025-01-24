@@ -2,13 +2,13 @@
 ### Welcome to my world!
 
 #### For the lazy INFP/INTP young man here:
-- 🌱 I’m currently learning
-  1. Programming: C, Java
-  2. Music: Composing ( J-Pop, Vocaloid, ... )
+- 🌱 I’m currently learning:
+  1. Programming: `C`, `Java`
+  2. Music: Composing ( `J-Pop`, `Vocaloid`, ... )
 - 📫 How to reach me: Guess what? I've already upload my e-mail
 - 😄 Pronouns: Be at home (No offensive words is OK)
 - ⚡ Fun fact:
-  1. I love❤ rhythm games like `project sekai colorful stage: feat. Hatsune miku` `Arcaea`
+  1. I love❤ rhythm games like `project sekai colorful stage: feat. Hatsune miku ( pjsk )` `Arcaea`
   2. I love proggramming!
 - 🤔 I’m looking for help with:
   1. `PS Pr Ae Au`, `UE4/UE5`, `Blender`, `VS Code ( for C environment )`
