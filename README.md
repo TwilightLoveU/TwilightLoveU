@@ -2,7 +2,7 @@
 ### Welcome to my world!
 
 ### For the lazy INFP/INTP young man here:
-- 🌱 I’m currently learning:
+#### - 🌱 I’m currently learning:
   1. Programming: C, Java.
   2. 
 - 👯 I’m looking to collaborate on ...
