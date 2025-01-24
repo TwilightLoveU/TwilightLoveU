@@ -10,7 +10,7 @@
 - ⚡ Fun fact:
   1. I love rhythm games like:
      ❤`project sekai colorful stage: feat. Hatsune miku ( pjsk )`
-     ❤`Arcaea`
+     ❤`Arcaea ( current ptt: 11.85 )`
   3. I love proggramming!
 - 🤔 I’m looking for help with:
   1. `PS Pr Ae Au`, `UE4/UE5`, `Blender`, `VS Code ( for C environment )`
