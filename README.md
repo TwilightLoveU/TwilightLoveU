@@ -1,10 +1,11 @@
 ## Hi there 👋
 ### Welcome to my world!
 
-### For the lazy INFP/INTP young man here:
+#### For the lazy INFP/INTP young man here:
 #### - 🌱 I’m currently learning:
-  1. Programming: C, Java.
-  2. 
+    1. Programming:
+        2. C, Java.
+  4. 
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ... Guess what? I've already upload my e-mail.
 - 😄 Pronouns: ... Be at home (No offensive words is OK)
